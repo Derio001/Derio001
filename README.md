@@ -1,67 +1,71 @@
-## Hi there 👋
+# Mahamat Hanga Derio 👋
 
-🎓 Final Year Student  
-📊 Aspiring Data Scientist / Data Enthusiast  
-💡 Passionate about turning data into insights using analytics, machine learning, and visualization.
+Chadian Data Scientist building ML solutions for public health
+and economic development in Sub-Saharan Africa.
+
+Published researcher · M.Tech Data Science · Christ University, Bangalore
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Interested in **Data Analytics, Machine Learning, and Business Intelligence**
-- 🧠 Skilled in analyzing real-world datasets and building predictive models
-- 📈 Experienced in **data visualization and dashboard development**
-- 🌍 Currently working on projects involving **economic data and predictive analytics**
+- 🌍 Chadian national focused on applying data science to real problems
+  in Chad and the Lake Chad Basin
+- 📄 Published at **CSCT 2025 (NIT Sikkim) under Springer** —
+  ensemble ML for loan approval prediction
+- 🧠 Building ML pipelines for **public health, economic forecasting,
+  and development analytics**
+- 📊 End-to-end experience: raw data → cleaned dataset → ML model →
+  interactive Power BI dashboard
+- 🤝 Open to collaboration with NGOs, research institutions, and
+  development organizations
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Programming & Data Analysis**
-- Python
-- Pandas
-- NumPy
+**Languages & Data**
+Python · Pandas · NumPy · SQL
 
 **Machine Learning**
-- Scikit-learn
-- Regression Models
-- Model Evaluation
+Scikit-learn · XGBoost · LightGBM · CatBoost · SMOTE · Ensemble Methods
 
-**Data Visualization**
-- Power BI
-- Matplotlib
-- Seaborn
+**Visualization & BI**
+Power BI · Matplotlib · Seaborn
 
-**Other Tools**
-- Jupyter Notebook
-- Git & GitHub
-- Data Cleaning & Preprocessing
+**Tools**
+Jupyter · Git & GitHub · PySpark · NLP
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### 📊 GDP Prediction using Machine Learning and Business Intelligence
+### 🫁 LRI Risk Prediction in Chadian Children Under Five
+ML pipeline to predict Lower Respiratory Infection risk using
+DHS survey data from Chad — SMOTE balancing, 8+ models benchmarked,
+XGBoost/LightGBM best performers.
+→ [View Project](https://github.com/Derio001/lri-prediction-chad)
 
-Developed a data analytics system to analyze and predict **GDP using macroeconomic indicators from World Bank data**.
+### 🌍 Global GDP Intelligence Dashboard
+End-to-end BI + ML system integrating 7 World Bank datasets across
+180+ countries. Decision Tree vs Random Forest benchmarking with
+4-page interactive Power BI dashboard.
+→ [View Project](https://github.com/Derio001/exploratory-predictive-gdp-analysis)
 
-**Key Features**
-- Built **interactive Power BI dashboards** for economic data exploration
-- Implemented **Decision Tree and Random Forest regression models**
-- Analyzed **global economic trends across multiple countries**
-- Used **Python, Pandas, and Scikit-learn for predictive modeling**
-
-🔗 Check the repository for full details.
+### 🏦 Ensemble ML for Loan Approval — Springer Paper
+Peer-reviewed research benchmarking 10 ensemble algorithms.
+LightGBM achieved best accuracy (89%). Presented at CSCT 2025,
+NIT Sikkim, published under Springer.
+→ [View Project](https://github.com/Derio001/loan-prediction-ensemble-models)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Derio001&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Derio001&layout=compact)
 
 ---
 
-
-⭐ Always open to learning new technologies and collaborating on interesting projects.
+*Open to collaboration with development banks, NGOs, and research
+institutions working in Sub-Saharan Africa.*
