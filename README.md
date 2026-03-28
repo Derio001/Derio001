@@ -40,6 +40,20 @@ Jupyter · Git & GitHub · PySpark · NLP
 
 ## 📌 Featured Projects
 
+### 🍽️ Child Malnutrition Risk Prediction in Chad
+ML pipeline predicting malnutrition risk in 9,826 Chadian 
+children using DHS survey data. Gradient Boosting achieved 
+92% accuracy and 0.979 AUC. Key finding: 52.9% of Chadian 
+children under five are malnourished.
+→ [View Project](https://github.com/Derio001/chad-malnutrition-prediction)
+
+### 🌾 Chad Crop Yield Early Warning System
+ML early warning system predicting bad harvest years for 
+millet and sorghum using 43 years of FAO and NASA climate 
+data. Key finding: rainfall alone cannot predict crop 
+failure in Chad.
+→ [View Project](https://github.com/Derio001/Chad-crop-yield-prediction)
+
 ### 🫁 LRI Risk Prediction in Chadian Children Under Five
 ML pipeline to predict Lower Respiratory Infection risk using
 DHS survey data from Chad — SMOTE balancing, 8+ models benchmarked,
