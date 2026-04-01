@@ -47,6 +47,12 @@ children using DHS survey data. Gradient Boosting achieved
 children under five are malnourished.
 → [View Project](https://github.com/Derio001/chad-malnutrition-prediction)
 
+### 🇹🇩 Chad Development Intelligence Dashboard
+Interactive dashboard built on **12 official INSEED government datasets** — 
+98 indicators · 23 regions · 1993–2024. Health, Economy, Food Security & Demography.
+🌐 [Live Dashboard](https://derio001.github.io/chad-development-dashboard) | 
+→ [View Project](https://github.com/Derio001/chad-development-dashboard)
+
 ### 🌾 Chad Crop Yield Early Warning System
 ML early warning system predicting bad harvest years for 
 millet and sorghum using 43 years of FAO and NASA climate 
